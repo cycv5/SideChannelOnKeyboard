@@ -1,0 +1,2 @@
+1. Train audio only for 100 epochs
+2. Train audio + video for 50 epochs.
